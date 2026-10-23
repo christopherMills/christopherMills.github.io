@@ -1,0 +1,11 @@
+remote_theme: mmistakes/minimal-mistakes
+
+title: christopherMills.github.io
+
+author:
+  name: Chris Mills
+  avatar: /avatar.jpg
+  bio: "Software engineer pivoting to robotics and physical AI."
+
+plugins:
+  - jekyll-include-cache
