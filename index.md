@@ -13,18 +13,7 @@ Previously four years as a consultant software developer at Accenture and Though
 
 MSc Robotics at the University of Manchester (September 2026 - 2027) via the Spärck AI Scholarship.
 
-First-class BSc Computing & IT (Open University). Dissertation compared deep learning with spiking neural networks and neuromorphic hardware. Now focused on robot software, navigation, and systems that interact with the physical world.
-
-## Skills
-
-**Software**  
-Java, Spring Boot, JavaScript/TypeScript, React, AWS, microservices, REST
-
-**Building now**  
-Python, ROS 2, robot kinematics, navigation / SLAM
-
-**Other**  
-Linux, Kubernetes, protocol buffers, some Go and Kotlin
+BSc Computing & IT the The Open University. First-class with honours. Dissertation compared deep learning with spiking neural networks and neuromorphic hardware. Other modules include Java, Cisco Networking, Radio Communications Technologies, Algorithms & Data Structures, Machine Learning & AI.
 
 ## Interests & Objectives
 
@@ -33,6 +22,9 @@ Interested in robotics software (especially navigation, localisation, and recove
 Looking to pursue PhD studies, but interested in industrial placements and roles in robotics software, perception, controls, or physical AI.
 
 ## Projects
+
+**Design Project**
+[put text here]
 
 **Spiking Neural Networks Dissertation**  
 Compared encoding schemes, training methods (supervised, STDP, DNN-to-SNN conversion), and energy efficiency of spiking networks versus conventional deep learning, with attention to neuromorphic hardware.  
