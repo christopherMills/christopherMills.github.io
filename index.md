@@ -39,8 +39,3 @@ Compared encoding schemes, training methods (supervised, STDP, DNN-to-SNN conver
 
 **Enterprise Systems (Accenture / ThoughtWorks)**  
 Delivered Java/Spring Boot microservices and React interfaces for clients including Sainsbury’s, Santander, and Daimler. Work included identity workflows, analytics backends, and restricted-infrastructure services.
-
-## Links
-
-- [GitHub](https://github.com/christopherMills)
-- [LinkedIn](https://www.linkedin.com/in/chris-mills-from-manchester/)
