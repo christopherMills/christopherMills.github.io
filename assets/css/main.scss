@@ -4,6 +4,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.sidebar {
+  opacity: 1 !important;
+}
+
 .author__avatar img {
   opacity: 1 !important;
 }
