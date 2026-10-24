@@ -11,7 +11,7 @@ Previously four years as a consultant software developer at Accenture and Though
 
 MSc Robotics at the University of Manchester (September 2026 - 2027) via the Spärck AI Scholarship.
 
-BSc Computing & IT the The Open University. First-class with honours. Dissertation compared deep learning with spiking neural networks and neuromorphic hardware. Other modules include Java, Cisco Networking, Radio Communications Technologies, Algorithms & Data Structures, Machine Learning & AI.
+BSc Computing & IT at the Open University. First-class with honours. Dissertation compared deep learning with spiking neural networks and neuromorphic hardware. Other modules include Java, Cisco Networking, Radio Communications Technologies, Algorithms & Data Structures, Machine Learning & AI.
 
 ## Skills
 
@@ -42,8 +42,12 @@ Looking to pursue PhD studies, but interested in industrial placements and roles
 
 ## Projects
 
-**Design Project**
-[put text here]
+**Leo Rover Design Project**  
+Group design project (AERO62520) to develop a mobile robot that can autonomously search for coloured objects in an environment, retrieve them, and return them to a matching coloured bin at the start point.  
+
+Platform is a Leo Rover Developer Kit with a myCobot 280 Pi manipulator, RPLidar A2M8, Intel RealSense, and an Intel NUC + Jetson Orin Nano compute stack.  
+
+Work follows a V-model systems engineering process. Personal focus is systems integration.
 
 **Spiking Neural Networks Dissertation**
 Compared encoding schemes, training methods (supervised, STDP, DNN-to-SNN conversion), and energy efficiency of spiking networks versus conventional deep learning, with attention to neuromorphic hardware.
