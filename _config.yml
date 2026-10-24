@@ -16,3 +16,5 @@ author:
 
 plugins:
   - jekyll-include-cache
+
+minimal_mistakes_skin: dark
