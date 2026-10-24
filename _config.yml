@@ -6,6 +6,13 @@ author:
   name: Chris Mills
   avatar: /avatar.jpg
   bio: "Software engineer pivoting to robotics and physical AI."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/christopherMills"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chris-mills-from-manchester/"
 
 plugins:
   - jekyll-include-cache
